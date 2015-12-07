@@ -1,4 +1,4 @@
-My Awesome Book
-=======
+# Everyday Depression
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This talk is about mental disorders, specifically depression. Talking about depression will actually trigger depression in some people. If you need to get up and walk out for any reason, I will not be offended.
+
