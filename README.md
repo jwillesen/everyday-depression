@@ -1,3 +1,5 @@
 # Everyday Depression
 
-This is the repository for a talk I'm giving at work about depression. When it's finished, you'll be able to read it on gitbook.
+This is the repository for a talk I'm giving at work about depression. When it's finished, you'll be able to [read it on gitbook][gitbook].
+
+[gitbook]: https://jwillesen.gitbooks.io/everyday-depression/content/
