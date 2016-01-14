@@ -8,3 +8,5 @@
 * [What Depression Feels Like for Me](what_depression_feels_like.md)
 * [Getting Help](getting_help.md)
 * [Getting Better](getting_better.md)
+* [Happily Ever After?](happily_ever_after_question.md)
+* [Conclusion](conclusion.md)
