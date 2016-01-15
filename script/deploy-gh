@@ -1,0 +1,91 @@
+#!/usr/bin/env ruby
+
+require 'shellwords'
+require 'open3'
+require 'optparse'
+
+DEPLOY_PATH = './tmp/deploy'
+$should_push = false
+
+OptionParser.new do |opts|
+  opts.banner = 'Usage: deploy-gh [options]'
+  opts.on('-h', '--help', 'print help') do
+    puts opts
+    exit
+  end
+
+  opts.on('--push', 'push to gh-pages') do
+    $should_push = true
+  end
+end.parse!
+
+def sh(cmd, options = {})
+  puts Shellwords.join(cmd)
+  system(*cmd, options)
+  exit_code = $?.exitstatus
+  exit(exit_code) if exit_code != 0
+end
+
+def capture(cmd)
+  puts Shellwords.join(cmd)
+  output, err, status = Open3.capture3(*cmd)
+  puts output
+  puts err
+  exit_code = status.exitstatus
+  exit(exit_code) if exit_code != 0
+  output
+end
+
+
+def tmp_git(args, options = {})
+  defaultOptions = {chdir: DEPLOY_PATH}
+  options = defaultOptions.merge(options)
+  sh(['git', *args], options)
+end
+
+def push_deploy
+  return push_ready unless $should_push
+
+  puts 'push now?', '(anything other than "yes" will not push)'
+  print '> '
+  $stdout.flush
+
+  response = gets.strip
+  if response == 'yes'
+    tmp_git(%w[push origin gh-pages])
+  else
+    puts 'not pushing'
+    push_ready
+  end
+end
+
+def push_ready
+  puts "repository at #{DEPLOY_PATH} is ready to push"
+end
+
+def main
+  originUrl = capture(%w[git config --get remote.origin.url]).strip
+  puts "origin is #{originUrl}"
+
+  sha = capture(%w[git rev-parse HEAD]).strip
+  sh(%w[git fetch])
+  sh(%w[git branch -f gh-pages origin/gh-pages])
+
+  sh(%w[rm -rf] + [DEPLOY_PATH])
+  sh(%w[mkdir -p] + [DEPLOY_PATH])
+  sh(%w[git clone -b gh-pages .] + [DEPLOY_PATH])
+
+  user_name = capture(%w[git config --local user.name]).strip
+  tmp_git(%w[config --local user.name] + [user_name]) unless user_name.empty?
+  user_email = capture(%w[git config --local user.email]).strip
+  tmp_git(%w[config --local user.email] + [user_email]) unless user_email.empty?
+
+  sh(%w[rsync -rv --exclude=reveal.html --exclude=example.html public/] + [DEPLOY_PATH])
+
+  tmp_git(%w[remote set-url origin] + [originUrl])
+  tmp_git(%w[add *])
+  tmp_git(%w[commit -a -m] + ["deploy #{sha}"])
+  push_deploy()
+end
+
+main

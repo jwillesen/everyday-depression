@@ -18,3 +18,5 @@ _book
 # example html files
 public/example.html
 public/reveal.html
+
+tmp/
