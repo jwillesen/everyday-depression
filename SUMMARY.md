@@ -1,6 +1,8 @@
 # Summary
 
 * [Some Perspective](some_perspective.md)
+* [Relevance](relevance.md)
+* [Disability or Handicap](disability_or_handicap.md)
 * [Extreme Cases](extreme_cases.md)
 * [Spectrum](spectrum.md)
 * [First Episode](first_episode.md)

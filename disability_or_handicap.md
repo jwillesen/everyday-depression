@@ -1,0 +1,5 @@
+# Disability or Handicap
+
+Depression and other mental conditions are often referred to as disorders, but today I'd also like to look at it as a disability. Steve Townsend, our awesome VP of engineering, often makes the distinction between a _handicap_ and a _disability_. He's paralyzed and can't walk; he has to use a wheelchair to get around. So he has a disability. But at Instructure it's not a handicap; he can get around and work just fine here. Just like not being able to speak Spanish or Italian or Russian isn't a handicap for the rest of us in our work.
+
+So if we look at depression as a disability, is it also a handicap at Instructure? Our company has an amazing mission: we write software that makes people better. What if you don't have the ability to be motivated by that mission? We talk a lot about ownership and passion. What if you can't be passionate? What if you can't enjoy, or even take pride in, the work you do? How much does that handicap you at work? I don't have a definitive answer to these questions.
