@@ -1,6 +1,6 @@
 # Spectrum
 
-Many mental disorders have a spectrum of severity, and Major Depressive Disorder isn't the only form of depression. There's a disorder related to depression called [dysthymia][dysthymia]. It's similar to depression, and while the symptoms aren't as severe, it's a chronic condition, meaning it lasts for years, or even a lifetime. There's also [Seasonal Affective Disorder][sad], a form of depression that's present only during the winter months.
+Many mental disorders have a spectrum of severity, and Major Depressive Disorder isn't the only form of depression. There's a disorder related to depression called [dysthymia][dysthymia]. It's similar to depression, and while the symptoms aren't as severe, it's a chronic condition, meaning it lasts for years, or even a lifetime. There's also [Seasonal Affective Disorder][sad], a form of depression that's present only during certain times of the year.
 
 Because someone's symptoms don't fall at the extreme end of the spectrum doesn't mean they aren't suffering. But their stories are not the ones you hear about. Before I did the research for this talk, I had never even heard of dysthymia.
 
