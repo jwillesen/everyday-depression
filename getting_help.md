@@ -2,7 +2,7 @@
 
 It wasn't until December, 2014 that I finally decided to get help. In February, my eldest son turned 8. In July, I started a new role at work as a manager and team lead. And in August, our third child, our baby daughter, was born. It was a time of change and stress, and I felt myself slipping into the same depressive pattern I had when my two boys were born.
 
-Earlier that year, my son told me something that I'm never going to forget. He said, "You're a good dad. Even though you don't smile very much."
+Earlier that year, my son told me something. He said, "You're a good dad. Even though you don't smile very much." I'm never going to forget that.
 
 Even then, I didn't realize I had to do something. Awhile after I became a manager, my boss asked, "Are you enjoying your job?" And I had to explain to him about my depression. As a manager, you really have to be able to control your emotions. I realizd if I was going to succeed I needed to do something.  And I really wanted to succeed; it's a more satisfying position for me than being a full time developer.
 
