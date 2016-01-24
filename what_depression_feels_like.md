@@ -18,8 +18,10 @@ For me, these were the significant symptoms:
 
  * "empty" feelings
  * Feelings of hopelessness or pessimism
+ * Feelings of guilt, worthlessness, or helplessness
  * Irritability, restlessness
  * Loss of interest in activities or hobbies once pleasurable
+ * Difficulty concentrating
  * Insomnia, early-morning wakefulness, or excessive sleeping
  * Thoughts of suicide
  * Aches or pains, headaches
