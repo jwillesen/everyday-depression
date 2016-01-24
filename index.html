@@ -1,1 +1,293 @@
-hello world
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+
+    <title>Everyday Depression</title>
+
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+    <link rel="stylesheet" href="reveal/css/reveal.css">
+    <link rel="stylesheet" href="reveal/css/theme/black.css" id="theme">
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="reveal/lib/css/zenburn.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal/css/print/pdf.css' : 'reveal/css/print/paper.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <style>
+      .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+        text-transform: none;
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <div class="reveal">
+
+      <!-- Any section element inside of this container is displayed as a slide -->
+      <div class="slides">
+        <section>
+          <h1>Everyday Depression</h1>
+          <p>
+            <small>by Jon Willesen</small>
+          </p>
+        </section>
+
+        <section>
+          <h2>Find this talk online</h2>
+          <ul>
+            <li><a href="https://talk.everyday-depression.life">Text</a>: https://talk.everyday-depression.life</li>
+            <li><a href="https://slides.everyday-depression.life">Slides</a>: https://slides.everyday-depression.life</li>
+            <li><a href="https://github.com/jwillesen/everyday-depression">Source</a>: https://github.com/jwillesen/everyday-depression</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Statistics About Depression</h2>
+          <ul>
+            <li>Affects 14.8 million American adults (6.7%)</li>
+            <li>Responsible for 20,000 suicides per year
+              <ul><li>(about two-thirds of all suicides)</li></ul>
+            </li>
+            <li>9.8 million people aren't getting treatment</li>
+            <li>80% of people who do get treated show improvement</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Presenteeism</h2>
+          <img src='images/economic-costs-graph.png' alt="depression cost is about $78 billion, diabetes cost is about $69 billion, asthma cost is about $56 billion" />
+        </section>
+
+        <section>
+          <h2>Relevance?</h2>
+          <img class='fragment' data-fragment-index='1' src='images/late_night_programmer.jpg' alt='picture of a progammer coding at 4:00 am' height='230' />
+          <img class='fragment' data-fragment-index='3'src='images/sad_utah.png' alt='picture of Utah with a sad face' height='230' />
+          <div class='fragment' data-fragment-index='2' style='display: flex; justify-content: center; align-items: center'>
+            <img src='images/sad_and_intelligent.png' alt='funny hand drawn graph correlating happiness and IQ' />
+            <span style='padding-left: 20px; font-size: 5em'>?</span>
+          </div>
+        </section>
+
+        <section>
+          <img src='images/sptownsend.jpg' alt='picture of Steven Townsend' />
+          <p><small>Steven Townsend</small></p>
+        </section>
+
+        <section>
+          <h2>Disability / Disorder ≠ Handicap</h2>
+          <img class='fragment' src='images/traditional-handicap.png' alt='traditional handicap sign' height='300' />
+          <img class='fragment' src='images/new-disabled.png' alt='speedy wheelchair sign' height='300' />
+        </section>
+
+        <section>
+          <h2>Is Depression a Handicap?</h2>
+          <div style='position: relative'>
+            <img style='position: relative; top: 0; right: 0' class='fragment current-visible fade-out' src='images/lack_of_motivation.jpg' alt="From the movie Office Space: It's not that I'm lazy, it's that I just don't care." />
+            <img style='position: absolute; top: 0; bottom: 0; left: 0; right: 0; margin: 0 auto' class='fragment current-visible fade-out' src='images/lack_of_passion.jpg' alt="From Darth Vader: I find your lack of passion disturbing." />
+            <img style='position: absolute; top: 0; bottom: 0; left: 0; right: 0; margin: 0 auto' class='fragment current-visible fade-out' src='images/lack_of_pride.jpg' alt="Pride: Sometimes it's a luxury that a little weiner dog just can't afford." />
+          </div>
+        </section>
+
+        <section>
+          <img src='images/robin_williams.jpg' alt='Picture of Robin Williams, 1951 to 2014' />
+        </section>
+
+        <section>
+          <img src='images/jenny_lawson.jpg' alt='Picture of Jenny Lawson, the Bloggess' height='300' />
+          <img class='fragment' data-fragment-index='1' src='images/allie_brosh.png' alt='Picture of Allie Brosh, author of Hyperbole and a Half' height='300' />
+          <img class='fragment' data-fragment-index='1' src='images/clean_all_the_things.png' alt='Quote: I must clean all the things.' height='300' />
+          <img class='fragment' data-fragment-index='2' src='images/amy_bleuel.jpg' alt='Picture of Amy Bleuel, founder of Project Semicolon' height='275' />
+        </section>
+
+        <section>
+          <img src='images/fired.jpg' alt='picture of someone sad being fired from their job' height='250' />
+          <img class='fragment' src='images/flunking.jpg' alt='final grade: F' height='300' />
+          <img class='fragment' src='images/homer_kicked_out.jpg' alt='sun rising; still in bed' height='300'/>
+          <img class='fragment' src='images/in_bed.png' alt='sun rising; still in bed' height='300' />
+        </section>
+
+        <section>
+          <h2>Mindset</h2>
+          <div class='fragment'>
+            <p style='text-align: left; padding-left: 150px'>"Are you going to your classes?"</p>
+            <p style='text-align: left; padding-left: 150px'>"Yes."</p>
+            <p style='text-align: left; padding-left: 150px'>"Are you keeping up with your reading?"</p>
+            <p style='text-align: left; padding-left: 150px'>"Yes."</p>
+            <p style='text-align: left; padding-left: 150px'>"Are you doing ok on your exams?"</p>
+            <p style='text-align: left; padding-left: 150px'>"Yes."</p>
+          </div>
+          <p class='fragment' style='text-align: left; padding-left: 150px'>"Well, then you're not depressed."</p>
+        </section>
+
+        <section>
+          <img src='images/spectrum.jpg' alt="image of a color spectrum" height='300' />
+          <br/>
+          <img class='fragment' src='images/wheaton_tabletop.jpg' alt="Wil Wheaton" />
+        </section>
+
+        <section>
+          <img src='images/wheaton_gloom.jpg' alt="Wil Wheaton holding the game Gloom" />
+          <div style='text-align: left'>
+            <p>"I suffered for no good reason for <em>decades</em>, until I couldn’t reconcile my awesome life with feeling terrible all the time."</p>
+            <p>"It’s like I was in a loud room for so long, I didn’t know how loud it was."</p>
+            <p style='text-align: right'><small>- emphasis added</small></p>
+          </div>
+        </section>
+
+        <section>
+          <h2>First Episode</h2>
+          <div style='display: flex' />
+            <div style="text-align: left">
+              <p class='fragment'>"Have you been thinking about suicide?"</p>
+              <p class='fragment'>"Not seriously."</p>
+            </div>
+            <img class='fragment' style='float: right' src='images/gun_closet.jpg' alt='gun closet' width='350' height='500' />
+          </div>
+        </section>
+
+        <section>
+          <h2>Junior High</h2>
+          <img class='fragment' src='images/bully.jpg' alt='bully making fun of a child' height='250' />
+          <br/>
+          <img class='fragment' src='images/funeral.jpg' alt='family mourning at a funeral' height='250' />
+        </section>
+
+        <section>
+          <h2>Life After Junior High</h2>
+          <img class='fragment' src='images/high_school.jpg' alt='studying in high school' height='200' />
+          <img class='fragment' src='images/uofu.jpg' alt='University of Utah logo' height='200' />
+          <img class='fragment' src='images/late_night_programmer.jpg' alt='Programmer' height='200' />
+          <img class='fragment' src='images/wedding.jpg' alt='University of Utah logo' height='300' />
+        </section>
+
+        <section>
+          <h2>Unprepared</h2>
+          <img class='fragment' src='images/andrew.jpg' alt='Our first child looking surprised.' height='500' />
+        </section>
+
+        <section>
+          <img src='images/stress_chart.png' alt='chart showing stress increasing and mood declining' height='300' />
+          <img class='fragment' src='images/stressed_father.jpg' alt='stressed out father with crying baby' height='300' />
+        </section>
+
+        <section>
+          <img src='images/three_children.jpg' alt='my three children' />
+        </section>
+
+        <section>
+          <img src='images/hate_my_job.jpg' alt='professional man with his head in his hand' />
+          <img class='fragment' src='images/angry_man.jpg' alt='angry man face' height='300' />
+        </section>
+
+        <section>
+          <h2>Symptoms</h2>
+          <ul style='font-size: smaller'>
+            <li>Persistent sad, anxious, or <span class='fragment highlight-red' data-fragment-index='1'>"empty" feelings</span></li>
+            <li><span class='fragment highlight-red' data-fragment-index='1'>Feelings of hopelessness or pessimism</span></li>
+            <li><span class='fragment highlight-red' data-fragment-index='1'>Feelings of guilt, worthlessness, or helplessness</span></li>
+            <li><span class='fragment highlight-red' data-fragment-index='1'>Irritability, restlessness</span></li>
+            <li><span class='fragment highlight-red' data-fragment-index='1'>Loss of interest in activities or hobbies once pleasurable</span>, including sex</li>
+            <li>Fatigue and decreased energy</li>
+            <li><span class='fragment highlight-red' data-fragment-index='1'>Difficulty concentrating</span>, remembering details, and making decisions</li>
+            <li><span class='fragment highlight-red' data-fragment-index='1'>Insomnia, early-morning wakefulness, or excessive sleeping</span></li>
+            <li>Overeating, or appetite loss</li>
+            <li><span class='fragment highlight-red' data-fragment-index='1'>Thoughts of suicide</span>, suicide attempts</li>
+            <li><span class='fragment highlight-red' data-fragment-index='1'>Aches or pains, headaches</span>, cramps, or digestive problems that do not ease even with treatment.</li>
+          </ul>
+        </section>
+
+        <section>
+          <img src="images/collection.jpg" alt="large shelves full of boardgames" height='600'>
+        </section>
+
+        <section>
+          <img src="images/blackhole.jpg" alt="black hole" />
+        </section>
+
+        <section>
+          <h2>Life Plan</h2>
+          <ul>
+            <li>Work and raise children</li>
+            <li class='fragment'>Go die in a ditch</li>
+          </ul>
+        </section>
+
+        <section>
+          <img src="images/sunrise.png" alt="sunrise over a grassy field" />
+        </section>
+
+        <section>
+          <img src="images/implosion.jpg" alt="glass shattering" />
+        </section>
+
+        <section>
+          <img src="images/sisyphus.jpg" alt="sisyphus pushing his boulder up the hill" />
+        </section>
+
+        <section>
+          <h2 class='fragment' data-fragment-index='1'>
+            You're a good dad<span class='fragment' data-fragment-index='2'>, even though you don't smile very much.</span>
+          </h2>
+          <p class='fragment' data-fragment-index='2' style='text-align: right'><small>
+            - Andrew Willesen
+          </small></p>
+        </section>
+
+        <section>
+          <img src='images/depression_pit.jpg' alt='working at the bottom of a pit' />
+        </section>
+
+      </div>
+    </div>
+
+    <script src="reveal/lib/js/head.min.js"></script>
+    <script src="reveal/js/reveal.js"></script>
+
+    <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+
+        transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: 'reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: 'reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src: 'reveal/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal/plugin/notes/notes.js', async: true }
+        ]
+      });
+
+    </script>
+
+  </body>
+</html>
