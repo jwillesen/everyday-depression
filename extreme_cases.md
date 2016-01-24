@@ -20,7 +20,7 @@ I want to contrast this with a story from [Carol Dweck's][dweck] book, [Mindset]
 >
 > "Well, then you're not depressed."
 
-The notion that someone who is functioning must not be depressed is a dangerous one. I believe it's one of the reasons so many people don't seek treatment. I believe the perception that depression must be a severe disease is one reason why it retains it's social stigma.
+The notion that someone who is functioning must not be depressed is a dangerous one. I believe the perception that depression must be a severe disease is one reason why it retains it's social stigma. And I believe it's one of the reasons so many people don't seek treatment.
 
 [hotlines]: http://www.newsweek.com/robin-williams-death-made-unprecedented-mark-suicide-lifelines-361790
 [bloggess]: http://thebloggess.com/2012/01/the-fight-goes-on/
