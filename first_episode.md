@@ -8,4 +8,4 @@ I imagine that Junior High School is the worst possible environment for teenager
 
 There were two main reasons I didn't commit suicide back then. The first was the difficulty in carrying out my plan. And the second was that I knew how much my family loved me and would be sad if I was gone.
 
-High School was a much better environment for me. There's a higher maturity level, and students are more separated into ability levels. College was even better, and after that I started my career as a programmer and got married. I played racquetball and taking a martial arts class, which meant I was exercising regularly. Everything was going perfectly and life was awesome; I was the happiest then that I ever remember being.
+High School was a much better environment for me. There's a higher maturity level, and students are more separated into ability levels. College was even better, and after that I started my career as a programmer, and got married. I played racquetball and taking a martial arts class, which meant I was exercising regularly. Everything was going perfectly and life was awesome; I was the happiest then that I ever remember being.
