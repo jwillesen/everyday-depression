@@ -1,6 +1,6 @@
 # Conclusion
 
-After I had written down my story, I realized it sounded pretty dramatic. For me it was pretty dramatic. But as far as my life is concerned, I've been pretty successful. I have a college degree, a successful marrige, 3 wonderful children, and a really great job. I'm grateful I didn't turn to alcohol or drugs to self-medicate. Overall, my life is pretty ordinary, and I haven't suffered any real disasters. Even during the worst of times, I got out of bed and did what I had to do.
+After I had written down my story, I realized it sounded pretty dramatic. For me it was pretty dramatic. But as far as my life is concerned, I've been pretty successful. I have a college degree, a successful marrige, a really great job, and three wonderful children. I'm grateful I didn't turn to alcohol or drugs to self-medicate. In fact, my life is pretty ordinary, and I haven't suffered any real disasters. Even during the worst of times, I got out of bed and did what I had to do.
 
 And really my story does have a happy ending. Even though I will struggle with depression the rest of my life, I know what I need to do and I have the support of my family when I need it. I'm going to live longer, I'm going to be happier, and hopefully I'll be more productive and do a better job than before.
 
