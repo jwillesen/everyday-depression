@@ -10,7 +10,7 @@ Growing up, my family sighed a lot. Our sighs were always in irritation, frustra
 
 One day in February, about 8 weeks after I started taking pills, I was driving with my family, and I sighed. But it was a different kind of sigh. It was a sigh of satisfaction. A sigh of just being happy to be with my family. It was the first time in my life I'd sighed like that.
 
-Other people started noticing changes in me as well. One of my wife's close friends asked about why I seemed so different. My wife explained to her about my treatment and the pills I was taking, and she said, "Really, it made that big a difference?"
+Other people started noticing changes in me as well. One of my wife's close friends asked about why I seemed so different. My wife explained to her about my treatment and the pills I was taking, and she said, "Really? It made that big a difference?"
 
 My son, the same one who made the first comment I'll never forget, said something else that I'll never forget. He said, "Boy, Dad sure is in a good mood today." And it was true. I had never been as happy or as satisfied before in my life.
 
