@@ -26,13 +26,13 @@ For me, these were the significant symptoms:
  * Thoughts of suicide
  * Aches or pains, headaches
 
-Although "irritability" doesn't really cover it. For me, it was outright anger. And while I'm proud to say that I've never struck anyone, I'm ashamed to say my children have been yelled at much more than anyone ever deserves to be.
+Although "irritability" doesn't really cover it. For me, it was outright anger, and rage. And while I'm proud to say that I've never struck anyone, I'm ashamed to say my children have been yelled at much more than anyone ever deserves to be.
 
 Many of you know how much I like boardgames -- I have over 300 in my collection. I know I'm in real trouble when even boardgames aren't interesting to me. Sometimes I'd find myself wandering around the house, peering into the refrigerator or pantry, and my wife would ask me, "What are you looking for?"
 
 "Nothing," is what I would say, but the answer said to myself was "I'm looking for something to fill the empty space in my soul."
 
-I know that I'm not going to commit suicide any time soon; I care too much about my family and children to do that to them. But that doesn't stop the negative thoughts from coming. Often when I'd go to sleep, I'd have a hope that I wouldn't wake up. That somehow it would all just be over.
+I know that I'm not going to commit suicide; I care too much about my family and children to do that to them. But that doesn't stop the negative thoughts from coming. Often when I'd go to sleep, I'd have a hope that I wouldn't wake up. That somehow it would all just be over.
 For a long time, my life plan looked like this:
 
  - Work and raise children

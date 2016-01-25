@@ -6,7 +6,7 @@ Depression affects roughly 14.8 million American adults, about 6.7% of the popul
 
 There's also an economic cost to depression. Because depression often co-exists with other conditions, it's hard to suss out the costs of depression versus the cost of the other conditions. But to examine just one aspect, [a study][presenteeism] shows that in 2010, "presenteeism"[^2] caused by Major Depressive Disorder alone cost employers $78 billion. Compare this to the $69 billion in [lost productivity from diabetes][diabetes-cost]. The highest estimate I could find for the [_total_ cost of asthma][asthma-cost] was $56 billion.
 
-So many people who suffer from depression go untreated. Which means these costs are much higher than they need to be.
+You wouldn't expect someone with diabetes or asthma to go untreated. But so many people who suffer from depression do. Which means these costs are much higher than they need to be.
 
 [^1]: I chose this and many others sites in this talk because because they cite their sources.
 [^2]: Being physically present at work but not working effectively.

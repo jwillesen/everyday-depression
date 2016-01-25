@@ -1,6 +1,6 @@
 # Happily Ever After?
 
-I wish I could say that's the end of the story and things have been perfect since then. The truth is that as the summer progressed, my mood slowly declined. At my first follow-up, my doctor told me that Sertraline eventually stops working, and you have to go off of it for awhile. We had planned to do this next summer, when the weather was good and people are generally happier, but the effects wore off for me faster than usual.
+I wish I could say that's the end of the story and things have been perfect since then. The truth is that as the summer progressed, my mood slowly declined. My doctor had told me that Sertraline eventually stops working, and you have to go off of it for awhile. We had planned to do this next summer, when the weather was good and people are generally happier, but the effects wore off for me faster than usual.
 
 I noticed the decline near the end of summer, and I made an appointment with my doctor to discuss it with her. She told me that I needed to get on a regular exercise schedule, maybe explore therapy, and she prescribed me a second medication to take with the Sertraline. But this new medication did not work at all for me. It made it hard for me to sleep, and as I said before, that's really bad for depression.
 

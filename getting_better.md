@@ -2,7 +2,7 @@
 
 After the doctor's appointment, it felt really good to have taken a positive step towards feeling better. It was a surprisingly strong placebo effect, and I was a little worried I wouldn't be able to detect the difference the medication was having, if any.
 
-Turns out it was an unjustified worry; 6 to 8 weeks is a long time, and it didn't take long for the temporary mood boost to wear off. But after 3 to 4 weeks, I started noticing my anger was decreasing; I had more patience with my children than I'd ever had before, and could talk to them rationally when they were causing trouble.
+Turns out it was an unjustified worry; 6 to 8 weeks is a long time, and it didn't take long for the temporary mood boost to wear off. But after 4 weeks, I started noticing my anger was decreasing; I had more patience with my children than I'd ever had before, and could talk to them rationally when they were causing trouble.
 
 If that had been the only effect, I would have been totally satisfied with my treatment. But it kept getting better. And I had some emotional experiences I'd never had before. The best example I can give is on the subject of sighing.
 
